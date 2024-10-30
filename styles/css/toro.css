@@ -3,7 +3,7 @@
  */
 
 :root {
-  --global-critical-critical-5: #ff0000;
+  --global-critical-critical-5: #ffe4e4;
   --global-critical-critical-10: #ffc9c9;
   --global-critical-critical-20: #ff9393;
   --global-critical-critical-30: #ff5e5e;
@@ -101,7 +101,7 @@
   --brand-info: #0043ce; /* Info color. Used in info icon background, info alert borders... */
   --brand-success-subtle: #e1f9e9; /* Light success color. Used on success alerts background, success text input validation  background color... */
   --brand-caution-subtle: #fef9e8; /* Light caution color. Used in caution alerts background... */
-  --brand-critical-subtle: #ff0000; /* Light critical/error color. Used in critical/error alerts background, critical/error text input validation background color... */
+  --brand-critical-subtle: #ffe4e4; /* Light critical/error color. Used in critical/error alerts background, critical/error text input validation background color... */
   --brand-info-subtle: #e0ebff;
   --brand-white: #ffffff; /* General white color. Used as text on color surfaces/backgrounds, icons on color surfaces/backgrounds, page surfaces/backgrounds... */
   --brand-disabled: #e2e6e9; /* Disabled color. Used in disabled states; disabled buttons, checkboxes, radio buttons... */
