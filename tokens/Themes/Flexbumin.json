@@ -1,0 +1,349 @@
+{
+  "brand": {
+    "Primary": {
+      "value": "#00684e",
+      "type": "color",
+      "description": "Primary brand color. Used on Active (on) states for checkboxes, radio buttons, link text, link icons. Button background, app menu bar selected state border, date picker calendar current day state, fill color for progress bar and spinner..."
+    },
+    "Primary-Subtle": {
+      "value": "#008463",
+      "type": "color",
+      "description": "Lighter primary brand color (Takeda red for Takeda theme). Used on general brand accents, support icons that are not clickable, decorative borders, Takeda logo..."
+    },
+    "Primary-Strong": {
+      "value": "#00513d",
+      "type": "color",
+      "description": "Darker primary brand color. Used on hover states like inline link text, link icons..."
+    },
+    "Secondary": {
+      "value": "#fdb71a",
+      "type": "color",
+      "description": "Secondary brand color. Used as an accent to support content and graphics like charts, graphs, tables, illustrations..."
+    },
+    "Secondary-Subtle": {
+      "value": "#ffce62",
+      "type": "color",
+      "description": "Lighter secondary brand color. Used on page and surface backgrounds, card surface/backgrounds, tabs, accordions, tags, general alerts, banners, callouts or highlights ..."
+    },
+    "Secondary-Strong": {
+      "value": "#e9a100",
+      "type": "color",
+      "description": "Dark secondary brand color. Used on footers, utility navigations, lead gen banner background, anchor nav background..."
+    },
+    "Success": {
+      "value": "{global.success.success-50}",
+      "type": "color",
+      "description": "Success color. Used on checkmark icon bg, success borders, success alerts border, steppers check icon and border, success toast message  background, toggle switches active (on) states..."
+    },
+    "Caution": {
+      "value": "{global.caution.caution-50}",
+      "type": "color",
+      "description": "Caution color. Used as caution icon background, caution alert border color..."
+    },
+    "Critical": {
+      "value": "{global.critical.critical-50}",
+      "type": "color",
+      "description": "Critical/error color. Used as icon background, critical/error border color, alert border, toast message critical/error background, text input error message text for validation..."
+    },
+    "Info": {
+      "value": "{global.info.info-50}",
+      "type": "color",
+      "description": "Info color. Used in info icon background, info alert borders..."
+    },
+    "Success-Subtle": {
+      "value": "{global.success.success-5}",
+      "type": "color",
+      "description": "Light success color. Used on success alerts background, success text input validation  background color..."
+    },
+    "Caution-Subtle": {
+      "value": "{global.caution.caution-5}",
+      "type": "color",
+      "description": "Light caution color. Used in caution alerts background..."
+    },
+    "Critical-Subtle": {
+      "value": "{global.critical.critical-5}",
+      "type": "color",
+      "description": "Light critical/error color. Used in critical/error alerts background, critical/error text input validation background color..."
+    },
+    "Info-Subtle": {
+      "value": "{global.info.info-5}",
+      "type": "color"
+    },
+    "White": {
+      "value": "{global.neutral.neutral-0}",
+      "type": "color",
+      "description": "General white color. Used as text on color surfaces/backgrounds, icons on color surfaces/backgrounds, page surfaces/backgrounds..."
+    },
+    "Disabled": {
+      "value": "#e6e6e6",
+      "type": "color",
+      "description": "Disabled color. Used in disabled states; disabled buttons, checkboxes, radio buttons..."
+    },
+    "Success-Strong": {
+      "value": "{global.success.success-60}",
+      "type": "color",
+      "description": "Dark success color. Used on text in stepper completed step, text input validation message for success (helper message)..."
+    },
+    "Critical-Strong": {
+      "value": "{global.critical.critical-60}",
+      "type": "color",
+      "description": "Dark critical/error color for text (ADA), if needed..."
+    },
+    "Info-Strong": {
+      "value": "{global.info.info-60}",
+      "type": "color",
+      "description": "Dark info color..."
+    },
+    "Disabled-Strong": {
+      "value": "#5c5c5c",
+      "type": "color",
+      "description": "Dark disabled color. Used in disabled states; text and icons, button labels, disabled checkbox and radio labels..."
+    },
+    "Text & Icon": {
+      "value": "{global.neutral.neutral-80}",
+      "type": "color",
+      "description": "Default text color. Used in paragraph text, default state icons, button labels, input and dropdown labels, links..."
+    },
+    "Text-Strong": {
+      "value": "{global.neutral.neutral-90}",
+      "type": "color",
+      "description": "Dark text color. Used in text headers and anywhere designer wants to use a stronger almost black text color..."
+    },
+    "Text-Subtle": {
+      "value": "{global.neutral.neutral-60}",
+      "type": "color",
+      "description": "Light text color. Used any place designer wants to use a lighter color for text; legal copy or icons subtle..."
+    },
+    "Caution-Strong": {
+      "value": "{global.caution.caution-80}",
+      "type": "color"
+    },
+    "Border": {
+      "value": "#c0c0c0",
+      "type": "color",
+      "description": "Border color used for text input borders in default or inactive state..."
+    },
+    "Border-Subtle": {
+      "value": "#dedede",
+      "type": "color",
+      "description": "Light border color used for dividers and borders..."
+    },
+    "Border-Strong": {
+      "value": "#9d9d9c",
+      "type": "color",
+      "description": "Dark border color used for text input borders in active (typing) state or entered/completed state..."
+    },
+    "Border-Strongest": {
+      "value": "#00684e",
+      "type": "color",
+      "description": "Darkest border color used on accordion border, contained list borders, tab border, card hover state border, table header border..."
+    },
+    "Primary-Strongest": {
+      "value": "#004030",
+      "type": "color",
+      "description": "Darkest primary brand color. Used on pressed states like inline link text, link icons, and buttons..."
+    },
+    "--NOTES--": {
+      "value": "#9747ff",
+      "type": "color",
+      "description": "Used for internal purposes, notes to designers or developers. DO NOT PUBLISH COLOR."
+    },
+    "--NOTES-- 2": {
+      "value": "#f9f3ff",
+      "type": "color",
+      "description": "Used for internal purposes, notes to designers or developers. DO NOT PUBLISH COLOR."
+    },
+    "Focus": {
+      "value": "{global.info.info-30}",
+      "type": "color",
+      "description": "For accessibility. Focus borders on all elements..."
+    },
+    "Tracks": {
+      "value": "{global.neutral.neutral-10}",
+      "type": "color",
+      "description": "General background color for base tracks like toggle switch inactive (off) state, incomplete progress bar, incomplete spinner fills..."
+    },
+    "Black": {
+      "value": "{global.neutral.neutral-100}",
+      "type": "color",
+      "description": "General black color. If brand does not have a pure black in their primary palette, designer can use this token. (unlike TAKEDA)..."
+    },
+    "DarkGray": {
+      "value": "#646363",
+      "type": "color",
+      "description": "General soft-black color. Used in general toast message surfaces/backgrounds, tooltip surfaces/backgrounds, video thumbnail time clock background..."
+    },
+    "Neutral": {
+      "value": "#f5f2eb",
+      "type": "color"
+    },
+    "Tertiary": {
+      "value": "#1e828e",
+      "type": "color"
+    }
+  },
+  "font": {
+    "family": {
+      "header": {
+        "value": "Barlow Condensed",
+        "type": "text"
+      },
+      "body": {
+        "value": "Barlow",
+        "type": "text"
+      },
+      "interactive": {
+        "value": "Barlow",
+        "type": "text"
+      }
+    },
+    "weight": {
+      "light": {
+        "value": "Light",
+        "type": "text"
+      },
+      "regular": {
+        "value": "Regular",
+        "type": "text"
+      },
+      "medium": {
+        "value": "SemiBold",
+        "type": "text"
+      },
+      "bold": {
+        "value": "Bold",
+        "type": "text"
+      }
+    },
+    "size": {
+      "12": {
+        "value": "0.75rem",
+        "type": "dimension"
+      },
+      "14": {
+        "value": "0.875rem",
+        "type": "dimension"
+      },
+      "16": {
+        "value": "1rem",
+        "type": "dimension"
+      },
+      "18": {
+        "value": "1.125rem",
+        "type": "dimension"
+      },
+      "20": {
+        "value": "1.25rem",
+        "type": "dimension"
+      },
+      "24": {
+        "value": "1.5rem",
+        "type": "dimension"
+      },
+      "28": {
+        "value": "1.75rem",
+        "type": "dimension"
+      },
+      "32": {
+        "value": "2rem",
+        "type": "dimension"
+      },
+      "40": {
+        "value": "2.5rem",
+        "type": "dimension"
+      }
+    }
+  },
+  "button-corner": {
+    "value": "{radius.radius-None}",
+    "type": "dimension"
+  },
+  "button-icon-corner": {
+    "value": "{radius.radius-None}",
+    "type": "dimension"
+  },
+  "card-corner": {
+    "value": "{radius.radius-None}",
+    "type": "dimension"
+  },
+  "input-corner": {
+    "value": "{radius.radius-Smallest}",
+    "type": "dimension"
+  },
+  "radius": {
+    "radius-None": {
+      "value": "0rem",
+      "type": "dimension"
+    },
+    "radius-Smallest": {
+      "value": "0.125rem",
+      "type": "dimension"
+    },
+    "radius-Small": {
+      "value": "0.25rem",
+      "type": "dimension"
+    },
+    "radius-Medium": {
+      "value": "0.5rem",
+      "type": "dimension"
+    },
+    "radius-Large": {
+      "value": "1rem",
+      "type": "dimension"
+    },
+    "radius-Largest": {
+      "value": "6.25rem",
+      "type": "dimension"
+    },
+    "radius-Larger": {
+      "value": "1.25rem",
+      "type": "dimension"
+    }
+  },
+  "space": {
+    "space-1": {
+      "value": "0.0625rem",
+      "type": "dimension"
+    },
+    "space-2": {
+      "value": "0.125rem",
+      "type": "dimension"
+    },
+    "space-4": {
+      "value": "0.25rem",
+      "type": "dimension"
+    },
+    "space-8": {
+      "value": "0.5rem",
+      "type": "dimension"
+    },
+    "space-12": {
+      "value": "0.75rem",
+      "type": "dimension"
+    },
+    "space-16": {
+      "value": "1rem",
+      "type": "dimension"
+    },
+    "space-24": {
+      "value": "1.5rem",
+      "type": "dimension"
+    },
+    "space-32": {
+      "value": "2rem",
+      "type": "dimension"
+    },
+    "space-40": {
+      "value": "2.5rem",
+      "type": "dimension"
+    },
+    "space-64": {
+      "value": "4rem",
+      "type": "dimension"
+    },
+    "space-80": {
+      "value": "5rem",
+      "type": "dimension"
+    }
+  }
+}

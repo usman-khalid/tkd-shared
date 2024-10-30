@@ -1,0 +1,58 @@
+[
+  {
+    "id": "a6f95d212503e50c3ca6680f4414041fda1c59f3",
+    "name": "Takeda",
+    "$figmaStyleReferences": {},
+    "selectedTokenSets": {
+      "Themes/Takeda": "enabled"
+    }
+  },
+  {
+    "id": "481d66683fc0cdec62aff28f540a482d53dfbe8b",
+    "name": "Entyvio",
+    "$figmaStyleReferences": {},
+    "selectedTokenSets": {
+      "Themes/Entyvio - demo": "enabled"
+    }
+  },
+  {
+    "id": "dd78f88ea1eabb1eb9c612847f2492c711b2c42d",
+    "name": "Livtencity",
+    "$figmaStyleReferences": {},
+    "selectedTokenSets": {
+      "Themes/Livtencity": "enabled"
+    }
+  },
+  {
+    "id": "d88219f8e4a97d53e011d2615403dcf6aed47199",
+    "name": "Takhzyro",
+    "$figmaStyleReferences": {},
+    "selectedTokenSets": {
+      "Themes/Takhzyro - demo": "enabled"
+    }
+  },
+  {
+    "id": "b8ab3a9af302279bcbc79d5c98f5c36d64a9280a",
+    "name": "Flexbumin",
+    "$figmaStyleReferences": {},
+    "selectedTokenSets": {
+      "Themes/Flexbumin": "enabled"
+    }
+  },
+  {
+    "id": "efafa82642af303f750442c5a79b78fa41cca186",
+    "name": "Gammargard Liquid",
+    "$figmaStyleReferences": {},
+    "selectedTokenSets": {
+      "Themes/Gammagard Liquid": "enabled"
+    }
+  },
+  {
+    "id": "5c0a1bffb772a4acd6347f4ad03d2d14d3e0a312",
+    "name": "Eohilia",
+    "$figmaStyleReferences": {},
+    "selectedTokenSets": {
+      "Themes/Eohilia": "enabled"
+    }
+  }
+]
