@@ -6,6 +6,9 @@ register(StyleDictionary, {
 });
 
 const sd = new StyleDictionary({
+  log: {
+    verbosity: 'verbose',
+  },
   source: ['./tokens/**/*.json'],
   preprocessors: ['tokens-studio'],
   platforms: {
