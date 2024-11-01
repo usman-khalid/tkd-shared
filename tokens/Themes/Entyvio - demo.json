@@ -182,6 +182,64 @@
       "type": "color"
     }
   },
+  "component-level": {
+    "footer-bg": {
+      "value": "{brand.Secondary}",
+      "type": "color"
+    },
+    "card-bg": {
+      "value": "{brand.White}",
+      "type": "color"
+    },
+    "utility-nav-bg": {
+      "value": "{brand.Primary}",
+      "type": "color"
+    },
+    "nav-bg": {
+      "value": "{brand.White}",
+      "type": "color"
+    },
+    "img-block-bg": {
+      "value": "{brand.White}",
+      "type": "color"
+    },
+    "footer-border": {
+      "value": "{brand.Primary}",
+      "type": "color"
+    },
+    "banner-bg": {
+      "value": "{brand.Secondary}",
+      "type": "color"
+    },
+    "benefits-bg": {
+      "value": "{brand.White}",
+      "type": "color"
+    },
+    "callout-bg": {
+      "value": "{brand.White}",
+      "type": "color"
+    },
+    "ISI-bar-bg": {
+      "value": "{brand.Secondary}",
+      "type": "color"
+    },
+    "references-bg": {
+      "value": "{brand.Neutral}",
+      "type": "color"
+    },
+    "related-content-bg": {
+      "value": "{brand.Tertiary}",
+      "type": "color"
+    },
+    "testimonial-bg": {
+      "value": "{brand.Secondary-Subtle}",
+      "type": "color"
+    },
+    "sticky-bar-bg": {
+      "value": "{brand.White}",
+      "type": "color"
+    }
+  },
   "font": {
     "family": {
       "header": {

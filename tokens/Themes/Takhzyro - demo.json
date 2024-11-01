@@ -1,32 +1,32 @@
 {
   "brand": {
     "Primary": {
-      "value": "#bdf3eb",
+      "value": "#ef426f",
       "type": "color",
       "description": "Primary brand color. Used on Active (on) states for checkboxes, radio buttons, link text, link icons. Button background, app menu bar selected state border, date picker calendar current day state, fill color for progress bar and spinner..."
     },
     "Primary-Subtle": {
-      "value": "#e5fcf9",
+      "value": "#f3f3f3",
       "type": "color",
       "description": "Lighter primary brand color (Takeda red for Takeda theme). Used on general brand accents, support icons that are not clickable, decorative borders, Takeda logo..."
     },
     "Primary-Strong": {
-      "value": "#2bd5c4",
+      "value": "#5b6770",
       "type": "color",
       "description": "Darker primary brand color. Used on hover states like inline link text, link icons..."
     },
     "Secondary": {
-      "value": "#f0416f",
+      "value": "#bdf2ec",
       "type": "color",
       "description": "Secondary brand color. Used as an accent to support content and graphics like charts, graphs, tables, illustrations..."
     },
     "Secondary-Subtle": {
-      "value": "#000000",
+      "value": "#e5fbf9",
       "type": "color",
       "description": "Lighter secondary brand color. Used on page and surface backgrounds, card surface/backgrounds, tabs, accordions, tags, general alerts, banners, callouts or highlights ..."
     },
     "Secondary-Strong": {
-      "value": "#000000",
+      "value": "#2cd5c4",
       "type": "color",
       "description": "Dark secondary brand color. Used on footers, utility navigations, lead gen banner background, anchor nav background..."
     },
@@ -139,7 +139,7 @@
       "description": "Darkest border color used on accordion border, contained list borders, tab border, card hover state border, table header border..."
     },
     "Primary-Strongest": {
-      "value": "#000000",
+      "value": "#41484e",
       "type": "color",
       "description": "Darkest primary brand color. Used on pressed states like inline link text, link icons, and buttons..."
     },
@@ -169,16 +169,74 @@
       "description": "General black color. If brand does not have a pure black in their primary palette, designer can use this token. (unlike TAKEDA)..."
     },
     "DarkGray": {
-      "value": "#343a3e",
+      "value": "#333333",
       "type": "color",
       "description": "General soft-black color. Used in general toast message surfaces/backgrounds, tooltip surfaces/backgrounds, video thumbnail time clock background..."
     },
     "Neutral": {
-      "value": "#fdf8e2",
+      "value": "#edf2fa",
       "type": "color"
     },
     "Tertiary": {
-      "value": "#f3f1f8",
+      "value": "#cec6df",
+      "type": "color"
+    }
+  },
+  "component-level": {
+    "footer-bg": {
+      "value": "{brand.Primary}",
+      "type": "color"
+    },
+    "card-bg": {
+      "value": "{brand.White}",
+      "type": "color"
+    },
+    "utility-nav-bg": {
+      "value": "{brand.Primary}",
+      "type": "color"
+    },
+    "nav-bg": {
+      "value": "{brand.White}",
+      "type": "color"
+    },
+    "img-block-bg": {
+      "value": "{brand.White}",
+      "type": "color"
+    },
+    "footer-border": {
+      "value": "{brand.Primary}",
+      "type": "color"
+    },
+    "banner-bg": {
+      "value": "{brand.Secondary-Subtle}",
+      "type": "color"
+    },
+    "benefits-bg": {
+      "value": "{brand.White}",
+      "type": "color"
+    },
+    "callout-bg": {
+      "value": "{brand.Tertiary}",
+      "type": "color"
+    },
+    "ISI-bar-bg": {
+      "value": "{brand.Primary-Strong}",
+      "type": "color"
+    },
+    "references-bg": {
+      "value": "{brand.Neutral}",
+      "type": "color"
+    },
+    "related-content-bg": {
+      "value": "#ffffff",
+      "type": "color"
+    },
+    "testimonial-bg": {
+      "value": "{brand.Secondary-Subtle}",
+      "type": "color"
+    },
+    "sticky-bar-bg": {
+      "value": "#ffffff",
       "type": "color"
     }
   },

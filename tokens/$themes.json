@@ -1,57 +1,71 @@
 [
   {
-    "id": "a6f95d212503e50c3ca6680f4414041fda1c59f3",
+    "id": "2ba246cb33a549bc26fdc57bd983e5ce4e2d38a1",
     "name": "Takeda",
     "$figmaStyleReferences": {},
     "selectedTokenSets": {
+      "global": "source",
+      "x_Primatives/Mode 1": "source",
       "Themes/Takeda": "enabled"
     }
   },
   {
-    "id": "481d66683fc0cdec62aff28f540a482d53dfbe8b",
+    "id": "db884bc15c2e813f052bd3bdf015e75cbc8b29fa",
     "name": "Entyvio",
     "$figmaStyleReferences": {},
     "selectedTokenSets": {
+      "global": "source",
+      "x_Primatives/Mode 1": "source",
       "Themes/Entyvio - demo": "enabled"
     }
   },
   {
-    "id": "dd78f88ea1eabb1eb9c612847f2492c711b2c42d",
+    "id": "b66aa4bae098042793ad6349327349ab51c09874",
     "name": "Livtencity",
     "$figmaStyleReferences": {},
     "selectedTokenSets": {
+      "global": "source",
+      "x_Primatives/Mode 1": "source",
       "Themes/Livtencity": "enabled"
     }
   },
   {
-    "id": "d88219f8e4a97d53e011d2615403dcf6aed47199",
+    "id": "bea64b32bf69d7d7c229fa6e2c6d071110af46f8",
     "name": "Takhzyro",
     "$figmaStyleReferences": {},
     "selectedTokenSets": {
+      "global": "source",
+      "x_Primatives/Mode 1": "source",
       "Themes/Takhzyro - demo": "enabled"
     }
   },
   {
-    "id": "b8ab3a9af302279bcbc79d5c98f5c36d64a9280a",
+    "id": "f48ee79827a3c9ebf159c54155c5ca2126383714",
     "name": "Flexbumin",
     "$figmaStyleReferences": {},
     "selectedTokenSets": {
+      "global": "source",
+      "x_Primatives/Mode 1": "source",
       "Themes/Flexbumin": "enabled"
     }
   },
   {
-    "id": "efafa82642af303f750442c5a79b78fa41cca186",
-    "name": "Gammargard Liquid",
+    "id": "868f35f4d967401e82c8016a1254cd3ef6727ff6",
+    "name": "Gammagard Liquid",
     "$figmaStyleReferences": {},
     "selectedTokenSets": {
+      "global": "source",
+      "x_Primatives/Mode 1": "source",
       "Themes/Gammagard Liquid": "enabled"
     }
   },
   {
-    "id": "5c0a1bffb772a4acd6347f4ad03d2d14d3e0a312",
+    "id": "ee05412cc282fbbc80e939a70795181cad7a88d0",
     "name": "Eohilia",
     "$figmaStyleReferences": {},
     "selectedTokenSets": {
+      "global": "source",
+      "x_Primatives/Mode 1": "source",
       "Themes/Eohilia": "enabled"
     }
   }

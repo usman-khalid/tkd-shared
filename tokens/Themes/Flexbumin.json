@@ -6,7 +6,7 @@
       "description": "Primary brand color. Used on Active (on) states for checkboxes, radio buttons, link text, link icons. Button background, app menu bar selected state border, date picker calendar current day state, fill color for progress bar and spinner..."
     },
     "Primary-Subtle": {
-      "value": "#008463",
+      "value": "#37cb7d",
       "type": "color",
       "description": "Lighter primary brand color (Takeda red for Takeda theme). Used on general brand accents, support icons that are not clickable, decorative borders, Takeda logo..."
     },
@@ -21,7 +21,7 @@
       "description": "Secondary brand color. Used as an accent to support content and graphics like charts, graphs, tables, illustrations..."
     },
     "Secondary-Subtle": {
-      "value": "#ffce62",
+      "value": "#ffd982",
       "type": "color",
       "description": "Lighter secondary brand color. Used on page and surface backgrounds, card surface/backgrounds, tabs, accordions, tags, general alerts, banners, callouts or highlights ..."
     },
@@ -178,7 +178,65 @@
       "type": "color"
     },
     "Tertiary": {
-      "value": "#1e828e",
+      "value": "#00a7e0",
+      "type": "color"
+    }
+  },
+  "component-level": {
+    "footer-bg": {
+      "value": "{brand.Primary}",
+      "type": "color"
+    },
+    "card-bg": {
+      "value": "{brand.Neutral}",
+      "type": "color"
+    },
+    "utility-nav-bg": {
+      "value": "{brand.Primary}",
+      "type": "color"
+    },
+    "nav-bg": {
+      "value": "{brand.White}",
+      "type": "color"
+    },
+    "img-block-bg": {
+      "value": "{brand.Neutral}",
+      "type": "color"
+    },
+    "footer-border": {
+      "value": "{brand.Secondary}",
+      "type": "color"
+    },
+    "banner-bg": {
+      "value": "{brand.Primary-Strongest}",
+      "type": "color"
+    },
+    "benefits-bg": {
+      "value": "{brand.White}",
+      "type": "color"
+    },
+    "callout-bg": {
+      "value": "{brand.Tertiary}",
+      "type": "color"
+    },
+    "ISI-bar-bg": {
+      "value": "{brand.Primary-Strong}",
+      "type": "color"
+    },
+    "references-bg": {
+      "value": "{brand.White}",
+      "type": "color"
+    },
+    "related-content-bg": {
+      "value": "{brand.Neutral}",
+      "type": "color"
+    },
+    "testimonial-bg": {
+      "value": "{brand.Primary-Strong}",
+      "type": "color"
+    },
+    "sticky-bar-bg": {
+      "value": "{brand.Secondary-Strong}",
       "type": "color"
     }
   },
