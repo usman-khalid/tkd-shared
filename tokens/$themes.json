@@ -4,9 +4,8 @@
     "name": "Takeda",
     "$figmaStyleReferences": {},
     "selectedTokenSets": {
-      "global": "enabled",
-      "x_Primatives/Mode 1": "enabled",
-      "Themes/Takeda": "enabled"
+      "Themes/Takeda": "enabled",
+      "global": "enabled"
     }
   },
   {
@@ -14,9 +13,8 @@
     "name": "Entyvio",
     "$figmaStyleReferences": {},
     "selectedTokenSets": {
-      "global": "source",
-      "x_Primatives/Mode 1": "source",
-      "Themes/Entyvio": "enabled"
+      "Themes/Entyvio": "enabled",
+      "global": "source"
     }
   },
   {
@@ -24,9 +22,8 @@
     "name": "Livtencity",
     "$figmaStyleReferences": {},
     "selectedTokenSets": {
-      "global": "enabled",
-      "x_Primatives/Mode 1": "enabled",
-      "Themes/Livtencity": "enabled"
+      "Themes/Livtencity": "enabled",
+      "global": "enabled"
     }
   },
   {
@@ -34,9 +31,8 @@
     "name": "Takhzyro",
     "$figmaStyleReferences": {},
     "selectedTokenSets": {
-      "global": "enabled",
-      "x_Primatives/Mode 1": "enabled",
-      "Themes/Takhzyro": "enabled"
+      "Themes/Takhzyro": "enabled",
+      "global": "enabled"
     }
   },
   {
@@ -44,9 +40,8 @@
     "name": "Flexbumin",
     "$figmaStyleReferences": {},
     "selectedTokenSets": {
-      "global": "enabled",
-      "x_Primatives/Mode 1": "enabled",
-      "Themes/Flexbumin": "enabled"
+      "Themes/Flexbumin": "enabled",
+      "global": "enabled"
     }
   },
   {
@@ -54,9 +49,8 @@
     "name": "Gammagard Liquid",
     "$figmaStyleReferences": {},
     "selectedTokenSets": {
-      "global": "enabled",
-      "x_Primatives/Mode 1": "enabled",
-      "Themes/Gammagard Liquid": "enabled"
+      "Themes/Gammagard Liquid": "enabled",
+      "global": "enabled"
     }
   },
   {
@@ -64,9 +58,8 @@
     "name": "Eohilia",
     "$figmaStyleReferences": {},
     "selectedTokenSets": {
-      "global": "enabled",
-      "x_Primatives/Mode 1": "enabled",
-      "Themes/Eohilia": "enabled"
+      "Themes/Eohilia": "enabled",
+      "global": "enabled"
     }
   }
 ]
